@@ -8,6 +8,7 @@
 <hr>
   
 ## Download / How to use it?
+## 如何下载/使用
 
 ### Method 1 - PowerShell (Windows 8 and later) ❤️
 
