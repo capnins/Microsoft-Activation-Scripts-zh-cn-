@@ -4,6 +4,7 @@
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
+<p align="center">开源Windows和Office激活器，具有HWID， Ohook, TSforge， KMS38和在线KMS激活方法，以及高级故障排除。</p>
 <hr>
   
 ## Download / How to use it?
