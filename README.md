@@ -65,9 +65,9 @@ Latest Version: 3.0
 Release date: 14-Feb-2025
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### [故障排除 / 帮助](https://massgrave.dev/troubleshoot)
+### [下载原版 Windows 和 Office 镜像](https://massgrave.dev/genuine-installation-media)
+### 主页 - [https://massgrave.dev/](https://massgrave.dev/)
 
 <div align="center">
   
@@ -86,23 +86,23 @@ Release date: 14-Feb-2025
 
 </div>
 
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.3]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
+[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)  
+[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)  
+[1.3]: https://massgrave.dev/img/logo_gitea.png (自托管 Git)
 
-[1.4]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
+[1.4]: https://massgrave.dev/img/logo_discord.png (无需注册即可聊天)  
+[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)  
+[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)  
 [1.7]: https://massgrave.dev/img/logo_x.png (Twitter)
 
-[1]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
+[1]: https://github.com/massgravel/Microsoft-Activation-Scripts  
+[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts  
+[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts  
+[4]: https://discord.gg/j2yFsV5ZVC  
+[5]: https://www.reddit.com/r/MAS_Activator  
+[6]: https://bsky.app/profile/massgrave.dev  
 [7]: https://twitter.com/massgravel
 
 ---
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">用爱打造 ❤️</p>
